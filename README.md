@@ -4,7 +4,7 @@ Data analysis pipeline of gravitational waves from Core Collapse Supernova.
 
     D I S C L A I M E R:
     
-    There are so much information needed to document all the technical stages of the pipeline as well as for the 
+    There is so much information needed to document all the technical stages of the pipeline as well as for the 
     theoretical information about the models used here, so it will take a significant amount of time to complete the 
 	documentation.
     
